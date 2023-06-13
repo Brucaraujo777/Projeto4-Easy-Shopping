@@ -1,6 +1,6 @@
 <h1 align="center">Easy Shopping<h1>
   <br>
-<h2>Esse foi o quarto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub<a></h2>
+<h2>Esse foi o quarto projeto que realizei no <a href="https://rodolfomori.com.br/devclub">DevClub<a></h2>
   <br>
 <p>Neste projeto criamos uma estrtutura básica de HTML, além de iniciarmos a utilização e aplicação de ferramentas um pouco mais avançadas do CSS, como o position e a responsividade.<p>
   <br> 
